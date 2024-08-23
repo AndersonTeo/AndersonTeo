@@ -1,4 +1,4 @@
-## Olá. me chamo Anderson Teodoro!
+## Olá, me chamo Anderson Teodoro!
 
 Estudante de Ciência de Dados na Fatec Jundiaí, em transição de carreira da área de Segurança do Trabalho.<p>
 Busco primeira oportunidade na área de Dados para aplicar meu conhecimento em Python e lógica de programação na resolução de problemas complexos.<p>
