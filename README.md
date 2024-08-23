@@ -1,4 +1,8 @@
-## Hi there 👋
+## Olá. me chamo Anderson Teodoro!
+
+Estudante de Ciência de Dados na Fatec Jundiaí, em transição de carreira da área de Segurança do Trabalho.<p>
+Busco primeira oportunidade na área de Dados para aplicar meu conhecimento em Python e lógica de programação na resolução de problemas complexos.<p>
+Sou dedicado, adaptável e sempre em busca de novas tecnologias e metodologias.
 
 <!--
 **AndersonTeo/AndersonTeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
